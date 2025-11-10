@@ -51,7 +51,8 @@ El análisis y desarrollo de los modelos se encuentran documentados en los sigui
 * **Cuaderno 1 (Colab):** [Análisis Exploratorio y Preprocesamiento de Datos](https://colab.research.google.com/drive/1rUkTJ5FIrboe7dDwUMuLb76V952u38q3?usp=sharing)
 * **Cuaderno 2 (Colab):** [Desarrollo y Evaluación de Modelos Predictivos](https://colab.research.google.com/drive/1KhpMslnJGm7HGy2X7283wjlAE9kbvd7I?usp=sharing)
 * **Cuaderno 3 (GitHub):** [Notebook SIMAT](https://github.com/rubenesticesi/aprendizajeautomatico1/blob/master/simat.ipynb)
-
+* **Cuaderno 4 (GitHub):** INFORME 2/segunda_entrega_EDA_y_modelos_Run.ipynb
+  
 ---
 
 ## 📄 Licencia
