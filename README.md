@@ -1,4 +1,4 @@
-## UNIVERSIDAD ICESI - MAAI
+## UNIVERSIDAD ICESI - MIAA
 ![Logo Icesi](icesi.png)
 
 
