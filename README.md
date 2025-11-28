@@ -51,9 +51,9 @@ El análisis y desarrollo de los modelos se encuentran documentados en los sigui
 * **Cuaderno 1 (Colab):** [Análisis Exploratorio y Preprocesamiento de Datos](https://colab.research.google.com/drive/1rUkTJ5FIrboe7dDwUMuLb76V952u38q3?usp=sharing)
 * **Cuaderno 2 (Colab):** [Desarrollo y Evaluación de Modelos Predictivos](https://colab.research.google.com/drive/1KhpMslnJGm7HGy2X7283wjlAE9kbvd7I?usp=sharing)
 * **Cuaderno 3 (GitHub):** [Notebook SIMAT](https://github.com/rubenesticesi/aprendizajeautomatico1/blob/master/simat.ipynb)
-* **Cuaderno 4 (GitHub):** [INFORME 2] ([https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/tree/main/INFORME%202](https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/blob/main/INFORME%202/segunda_entrega_EDA_y_modelos_Run.ipynb)
-* **Cuaderno 5 (GitHub):** [INFORME FINAL] ([https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/blob/main/INFORME%20FINAL/Informe_Final_Proyecto_TEA.ipynb)
-* **Video:** ([(https://youtu.be/m-EO7Ex7vW4))
+* **Cuaderno 4 (GitHub):** [INFORME 2] (https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/tree/main/INFORME%202](https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/blob/main/INFORME%202/segunda_entrega_EDA_y_modelos_Run.ipynb)
+* **Cuaderno 5 (GitHub):** [INFORME FINAL] (https://github.com/rubenesticesi/Proyecto-I-innovacion-tecnologica-IA/blob/main/INFORME%20FINAL/Informe_Final_Proyecto_TEA.ipynb)
+* **Video:** (https://youtu.be/m-EO7Ex7vW4)
   
 ---
 
